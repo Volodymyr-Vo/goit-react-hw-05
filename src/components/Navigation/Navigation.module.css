@@ -1,0 +1,21 @@
+.nav {
+  padding: 10px;
+  background-color: #282c34;
+}
+
+.navList {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+}
+
+.active {
+  color: yellow;
+  font-weight: bold;
+}
