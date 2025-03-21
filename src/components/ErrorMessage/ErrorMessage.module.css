@@ -1,0 +1,10 @@
+p {
+  text-align: center;
+  color: red;
+  font-size: 18px;
+  padding: 20px;
+  background-color: #f8d7da;
+  border-radius: 5px;
+  border: 1px solid #f5c6cb;
+  margin: 20px;
+}
